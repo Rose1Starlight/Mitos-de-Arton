@@ -1,4 +1,4 @@
-# Mitos de Arton
+# Mitos de Arton v0.1
 
 Um módulo não-oficial para **Foundry VTT v13** contendo conteúdo do suplemento **Mitos de Arton**, adaptado para uso direto nas mesas de **Tormenta20**.
 
