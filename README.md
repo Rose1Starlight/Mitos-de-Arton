@@ -58,19 +58,18 @@ Planejado futuramente:
 
 ## Instalação
 
-1. Baixe o módulo pelo link
-'''
+1. Baixe o módulo colando o link no foundry
+```
 https://raw.githubusercontent.com/Rose1Starlight/Mitos-de-Arton/main/module.json
-'''
-2. Extraia a pasta para:
+```
+1. Ou baixe os arquivos e cole na pasta
 
 ```
 FoundryVTT/Data/modules/
 ```
 
-3. Inicie o Foundry
-4. Ative o módulo no seu mundo
-5. Os compendiums aparecerão automaticamente 🎉
+2. Ative o módulo no seu mundo
+3. Os compendiums aparecerão automaticamente 🎉
 
 ## Objetivo do projeto
 
