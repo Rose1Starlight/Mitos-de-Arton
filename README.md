@@ -88,13 +88,9 @@ Abra uma **Issue** ou envie um **Pull Request**!
 
 Feedback da comunidade é essencial para o crescimento do projeto 
 
-## 👤 Créditos
+## Créditos
 
 Conteúdo original: **Mitos de Arton**
 Autor do suplemento: **Kelveny "Altairuuu" Robson**
 
 Adaptação para Foundry: *Rose Starlight*
-
----
-
-Se quiser, eu posso te ajudar a montar o `module.json` bonitinho pra publicar via manifest (link instalável direto no Foundry). Isso é o próximo passo natural 😎
