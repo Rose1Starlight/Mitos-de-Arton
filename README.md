@@ -58,7 +58,10 @@ Planejado futuramente:
 
 ## Instalação
 
-1. Baixe o módulo pelo GitHub
+1. Baixe o módulo pelo link
+'''
+https://raw.githubusercontent.com/Rose1Starlight/Mitos-de-Arton/main/module.json
+'''
 2. Extraia a pasta para:
 
 ```
