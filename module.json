@@ -1,0 +1,35 @@
+{
+  "id": "mitos-de-arton-v01",
+  "title": "Mitos de Arton v0.1",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Rose Starlight",
+      "email": "rosestarlightvtb@gmail.com",
+      "discord": "rose_starlight",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "mitos-de-arton-v01",
+      "label": "Mitos de Arton v0.1",
+      "path": "packs/mitos-de-arton-v01",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20",
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
