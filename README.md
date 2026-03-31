@@ -92,5 +92,8 @@ Feedback da comunidade é essencial para o crescimento do projeto
 
 Conteúdo original: **Mitos de Arton**
 Autor do suplemento: **Kelveny "Altairuuu" Robson**
+Discord do Mitos de Arton: https://discord.gg/DnNjACPrBz
 
 Adaptação para Foundry: *Rose Starlight*
+
+
