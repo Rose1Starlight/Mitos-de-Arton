@@ -11,6 +11,8 @@ O suplemento original pertence ao autor do homebrew e o sistema Tormenta20 perte
 
 Este módulo **não substitui o material original** — você ainda precisa do PDF para entender as regras completas e o contexto do conteúdo.
 
+Este Modulo ainda não possui as Automoções, apenas as partes escritas dos poderes e habilidades
+
 ## O que é este módulo?
 
 Este módulo adiciona ao Foundry:
