@@ -23,5 +23,6 @@
       "flags": {}
     }
   ],
-  "description": ""
+  "manifest": "https://raw.githubusercontent.com/Rose1Starlight/Mitos-de-Arton/main/module.json",
+  "download": "https://github.com/Rose1Starlight/Mitos-de-Arton/archive/refs/tags/v02.zip"
 }
