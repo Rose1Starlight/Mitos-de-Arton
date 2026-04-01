@@ -1,4 +1,4 @@
-# Mitos de Arton v0.1
+# Mitos de Arton v0.2
 
 Um módulo não-oficial para **Foundry VTT v13** contendo conteúdo do suplemento **Mitos de Arton**, adaptado para uso direto nas mesas de **Tormenta20**.
 
@@ -26,27 +26,16 @@ Este módulo adiciona ao Foundry:
 
 ### v0.1 — Classes novas
 
-Primeira versão pública do módulo.
-
-Inclui:
-
-* Todas as **novas classes** presentes no PDF
-* Estrutura base do compendium
-* Organização inicial para expansão futura
-
 ### v0.2 — Classes variantes
 
-Planejado para a próxima versão:
+### v0.3 — A Ser Lançado
 
-* Classes variantes
-* Melhorias de organização
-* Ajustes baseados em feedback
+* Novas Raças
 
 ### Futuro do projeto
 
 Planejado futuramente:
 
-* Raças novas
 * Raças variantes
 * Poderes, talentos e regras
 * Magias
