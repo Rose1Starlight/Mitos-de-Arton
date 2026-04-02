@@ -1,4 +1,4 @@
-# Mitos de Arton v0.2
+# Mitos de Arton v0.6
 
 Um módulo não-oficial para **Foundry VTT v13** contendo conteúdo do suplemento **Mitos de Arton**, adaptado para uso direto nas mesas de **Tormenta20**.
 
@@ -24,19 +24,111 @@ Este módulo adiciona ao Foundry:
 
 ## Versões
 
-### v0.1 — Classes novas
+### v0.1 — Classes
+* Bruxeiro
+* Cultivador
+* Hemófago
+* Inquisidor
+* Mirmidão
+* Vaqueiro
 
 ### v0.2 — Classes variantes
+* Capoeirista
+* Defensor
+* Dragoeiro
+* Elementalista
+* Eminente
+* Ferreiro
+* General
+* Glorioso
+* Hanuman
+* Maquinista
+* Mecânopiloto
+* Mestre das Feras
+* Metaleiro
+* Monge
+* Ninja
+* Ocultista
+* Pirata
+* Polimorfo
+* Presa de Sangue
+* Psicófago
+* Sábio
+* Tecelão
+* Tecnomago
+* Vingador
+* Zelote
 
-### v0.3 — A Ser Lançado
+### v0.3 — Raças
+* Amalgamo
+* Averiano
+* Dampiro
+* Eirin
+* Entoma
+* Envar
+* Soberano
+* Valquiria
 
-* Novas Raças
+### v0.4 — Raças Extras e Variantes
+* Alraune
+* Arachne
+* Dagon
+* Duplo
+* Espectro
+* Forjado
+* G'rokk
+* Homumculus
+* Jotun
+* Oni
+* Toskr
+* Vanir
+* Alratann (Alraune)
+* Bucentauro (Centauro)
+* Envar do Cervo (Envar)
+* Envar do Dragão (Envar)
+* Envar do Lobo (Envar)
+* Galokk das Rochas (Galokk)
+* Galokk de Fogo (Galokk)
+* Galokk de Gelo (Galokk)
+* Galokk dos Mares (Galokk)
+* Gatamigo (Moreau Gato)
+* Mestiço (Humano)
+* Minotauro da Manada (Minotauro)
+* Múmia (Osteon)
+
+### v0.5 — Novas Opções para Golens e Variantes de Suraggel
+* Chassi: Latex
+* Chassi: Mitral
+* Chassi: Ouro
+* Chassi: Pano
+* Chassi: Porcelana
+* Fonte de Energia: Arcana
+* Fonte de Energia: Espiritual
+* Fonte de Energia: Onirica
+* Fonte de Energia: Psiquica
+* Suraggel: aRCANJO
+* Suraggel: Dominios
+* Suraggel: Serafim
+* Suraggel: Trono
+* Suraggel: Abissal
+* Suraggel: Cão do Inferno
+* Suraggel: Goético
+* Suraggel: Pecador
+
+### v0.6 — Novas Bençãos de Kallyadranoch
+* Arcana Superior
+* Arsenal Kallyanach
+* Erudição Dracônica
+* Dragão Ancião
+* Escamas Atrozes
+* Escamas Supremas
+* Natureza do Poder
+* Territorialista
 
 ### Futuro do projeto
 
 Planejado futuramente:
 
-* Raças variantes
 * Poderes, talentos e regras
 * Magias
 * Equipamentos
