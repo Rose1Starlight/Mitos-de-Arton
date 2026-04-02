@@ -1,0 +1,28 @@
+{
+  "id": "mitos-de-arton-v07",
+  "title": "Mitos de Arton V0.7",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "mitos-de-arton-v07",
+      "label": "Mitos de Arton V0.7",
+      "path": "packs/mitos-de-arton-v07",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20",
+      "flags": {}
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/Rose1Starlight/Mitos-de-Arton/main/module.json",
+  "download": "https://github.com/Rose1Starlight/Mitos-de-Arton/archive/refs/tags/v07.zip"
+}
