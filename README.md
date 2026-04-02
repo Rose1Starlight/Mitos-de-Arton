@@ -1,4 +1,4 @@
-# Mitos de Arton v0.6
+# Mitos de Arton v0.7
 
 Um módulo não-oficial para **Foundry VTT v13** contendo conteúdo do suplemento **Mitos de Arton**, adaptado para uso direto nas mesas de **Tormenta20**.
 
@@ -124,6 +124,45 @@ Este módulo adiciona ao Foundry:
 * Escamas Supremas
 * Natureza do Poder
 * Territorialista
+
+### v0.7 — Novas Origens
+* Andarilho
+* Assecla Dracônico
+* Anjo de Guerra
+* Aprendiz de Aventureiro
+* Caixeiro Viajante
+* Cerimonialista
+* Consorte de Pas
+* Criança de Lena
+* Cozinheiro de Masmorra
+* Cuidador de Animais
+* Criado por Lobos
+* Cultista Arrependido
+* Daoista
+* Diplomata
+* Discípulo Marcial
+* Estudante da Torre Élfica
+* Favorito
+* Filho da Floresta
+* Forjado por Chacina
+* Ginete Tribal
+* Incivilizado
+* Iniciado da Frota
+* Nobre Espiritual
+* Nobre Feérico
+* Órfão de Guerra
+* Profeta Estelar
+* Prole da Perdição
+* Sobrevivêncialista
+* Surfista
+* Teólogo
+* Tocado pelo Fim
+* Trabalhador de Rotina
+* Tribalista
+* Universitário
+* Vivente entre Lendas
+* Yaksha
+* Zênite
 
 ### Futuro do projeto
 
