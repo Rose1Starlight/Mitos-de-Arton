@@ -1,4 +1,4 @@
-# Mitos de Arton v0.8
+# Mitos de Arton v0.9
 
 Um módulo não-oficial para **Foundry VTT v13** contendo conteúdo do suplemento **Mitos de Arton**, adaptado para uso direto nas mesas de **Tormenta20**.
 
@@ -106,7 +106,7 @@ Este módulo adiciona ao Foundry:
 * Fonte de Energia: Espiritual
 * Fonte de Energia: Onirica
 * Fonte de Energia: Psiquica
-* Suraggel: aRCANJO
+* Suraggel: Arcanjo
 * Suraggel: Dominios
 * Suraggel: Serafim
 * Suraggel: Trono
@@ -182,11 +182,19 @@ Este módulo adiciona ao Foundry:
 * Paladino
 * Treinador
 
+### v0.9 — Novos Poderes, Nova Linhagem e Organização das pastas
+* Novos Poderes da Tormenta
+* Novos Poderes Concedidos
+* Novos Poderes de Combate
+* Novos Poderes de Destino
+* Novos Poderes de Magia
+* Novos Poderes de Raça
+* Novas Linhagens de Arcanista
+
 ### Futuro do projeto
 
 Planejado futuramente:
 
-* Poderes Gerais
 * Equipamentos
 
 ## Requisitos
