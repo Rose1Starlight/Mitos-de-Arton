@@ -1,4 +1,4 @@
-# Mitos de Arton v0.7
+# Mitos de Arton v0.8
 
 Um módulo não-oficial para **Foundry VTT v13** contendo conteúdo do suplemento **Mitos de Arton**, adaptado para uso direto nas mesas de **Tormenta20**.
 
@@ -164,14 +164,30 @@ Este módulo adiciona ao Foundry:
 * Yaksha
 * Zênite
 
+### v0.8 — Novos Poderes para as Classes:
+* Arcanista
+* Bárbaro
+* Bardo
+* Bucaneiro
+* Caçador
+* Cavaleiro
+* Clérigo
+* Druída
+* Frade
+* Guerreiro
+* Inventor
+* Ladino
+* Lutador
+* Nobre
+* Paladino
+* Treinador
+
 ### Futuro do projeto
 
 Planejado futuramente:
 
-* Poderes, talentos e regras
-* Magias
+* Poderes Gerais
 * Equipamentos
-* Conteúdo completo do suplemento
 
 ## Requisitos
 
