@@ -1,6 +1,6 @@
 {
-  "id": "mitos-de-arton-v08",
-  "title": "Mitos de Arton v0.8",
+  "id": "mitos-de-arton-v09",
+  "title": "Mitos de Arton v0.9",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
@@ -11,9 +11,9 @@
   },
   "packs": [
     {
-      "name": "mitos-de-arton-v08",
-      "label": "Mitos de Arton v0.8",
-      "path": "packs/mitos-de-arton-v08",
+      "name": "mitos-de-arton-v09",
+      "label": "Mitos de Arton v0.9",
+      "path": "packs/mitos-de-arton-v09",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -24,5 +24,5 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/Rose1Starlight/Mitos-de-Arton/main/module.json",
-  "download": "https://github.com/Rose1Starlight/Mitos-de-Arton/archive/refs/tags/v0.8.0.zip"
+  "download": "https://github.com/Rose1Starlight/Mitos-de-Arton/archive/refs/tags/v0.9.0.zip"
 }
