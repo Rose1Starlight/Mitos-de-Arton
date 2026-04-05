@@ -22,6 +22,26 @@ Este módulo adiciona ao Foundry:
 * Integração com o sistema Tormenta20
 * Padronização para uso em mesa online
 
+## Requisitos
+
+* Foundry VTT **v13**
+* Sistema **Tormenta20** instalado
+
+## Instalação
+
+1. Baixe o módulo colando o link no foundry
+```
+https://raw.githubusercontent.com/Rose1Starlight/Mitos-de-Arton/main/module.json
+```
+1. Ou baixe os arquivos e cole na pasta
+
+```
+FoundryVTT/Data/modules/
+```
+
+2. Ative o módulo no seu mundo
+3. Os compendiums aparecerão automaticamente 🎉
+
 ## Versões
 
 ### v0.1 — Classes
@@ -196,26 +216,6 @@ Este módulo adiciona ao Foundry:
 Planejado futuramente:
 
 * Equipamentos
-
-## Requisitos
-
-* Foundry VTT **v13**
-* Sistema **Tormenta20** instalado
-
-## Instalação
-
-1. Baixe o módulo colando o link no foundry
-```
-https://raw.githubusercontent.com/Rose1Starlight/Mitos-de-Arton/main/module.json
-```
-1. Ou baixe os arquivos e cole na pasta
-
-```
-FoundryVTT/Data/modules/
-```
-
-2. Ative o módulo no seu mundo
-3. Os compendiums aparecerão automaticamente 🎉
 
 ## Objetivo do projeto
 
